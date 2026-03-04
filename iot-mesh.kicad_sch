@@ -3202,7 +3202,7 @@
 	)
 	(text_box "- JP1 and JP2 are option for current consumption measurement (place to cut supply voltage)"
 		(exclude_from_sim no)
-		(at 88.9 46.99 0)
+		(at 87.63 46.99 0)
 		(size 36.83 10.16)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -3566,7 +3566,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 134.62) (xy 130.81 135.89)
+			(xy 129.54 132.08) (xy 129.54 135.89)
 		)
 		(stroke
 			(width 0)
@@ -3643,16 +3643,6 @@
 			(type default)
 		)
 		(uuid "69ba1c9b-9acf-4a6d-8063-ef04932c578e")
-	)
-	(wire
-		(pts
-			(xy 129.54 134.62) (xy 130.81 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6c5c3f9a-083a-4a74-bf72-38d26f71ab86")
 	)
 	(wire
 		(pts
@@ -3823,16 +3813,6 @@
 			(type default)
 		)
 		(uuid "bb203c7c-9cd7-45d7-b26c-0ff7aed645a8")
-	)
-	(wire
-		(pts
-			(xy 129.54 132.08) (xy 129.54 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c10ccf9d-6602-4ea8-989e-f340ab48c96d")
 	)
 	(wire
 		(pts
@@ -4344,7 +4324,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 130.81 135.89 0)
+		(at 129.54 135.89 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4353,7 +4333,7 @@
 		(fields_autoplaced yes)
 		(uuid "1fb30c98-de19-43e0-9053-a7c606df98ee")
 		(property "Reference" "#PWR06"
-			(at 130.81 142.24 0)
+			(at 129.54 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4362,7 +4342,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 130.81 140.97 0)
+			(at 129.54 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4370,7 +4350,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 135.89 0)
+			(at 129.54 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4379,7 +4359,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 135.89 0)
+			(at 129.54 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4388,7 +4368,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 135.89 0)
+			(at 129.54 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
