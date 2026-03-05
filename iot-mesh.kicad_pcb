@@ -172,8 +172,8 @@
 			(uuid "3caac63d-f95c-468d-9fa4-bfc9773123a6")
 			(effects
 				(font
-					(size 0.8 0.8)
-					(thickness 0.1)
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4481,8 +4481,8 @@
 		(start 121.138047 85.202639)
 		(end 131.068047 91.467639)
 		(stroke
-			(width 0.1)
-			(type default)
+			(width 0.15)
+			(type solid)
 		)
 		(fill no)
 		(layer "F.SilkS")
@@ -4493,8 +4493,8 @@
 		(mid 149.828427 98.828427)
 		(end 147 100)
 		(stroke
-			(width 0.05)
-			(type default)
+			(width 0.15)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "16089f9d-5ed7-4eb1-9258-51c49dbbddcf")
@@ -4503,8 +4503,8 @@
 		(start 151 65)
 		(end 151 96)
 		(stroke
-			(width 0.05)
-			(type default)
+			(width 0.15)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "51ec6e3f-0fa4-4b29-aeb2-30858cde8286")
@@ -4513,8 +4513,8 @@
 		(start 78 96)
 		(end 78 65)
 		(stroke
-			(width 0.05)
-			(type default)
+			(width 0.15)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "7b9eba55-f176-47c2-ba17-245dc6b916e6")
@@ -4523,8 +4523,8 @@
 		(start 82 61)
 		(end 147 61)
 		(stroke
-			(width 0.05)
-			(type default)
+			(width 0.15)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "e22f028a-a3e3-46d7-8d78-ca24b8dabafd")
@@ -4533,8 +4533,8 @@
 		(start 147 100)
 		(end 82 100)
 		(stroke
-			(width 0.05)
-			(type default)
+			(width 0.15)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "e5722629-7f3d-4e1c-aaa5-26f84a5bba9b")
@@ -4544,8 +4544,8 @@
 		(mid 149.828427 62.171573)
 		(end 151 65)
 		(stroke
-			(width 0.05)
-			(type default)
+			(width 0.15)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "eabe47bb-4dd2-46ce-be12-cd2171ba4f61")
@@ -4555,8 +4555,8 @@
 		(mid 79.171573 98.828427)
 		(end 78 96)
 		(stroke
-			(width 0.05)
-			(type default)
+			(width 0.15)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "ef9bc7ba-4cd3-436d-8b02-4367df8d3311")
@@ -4566,8 +4566,8 @@
 		(mid 79.171573 62.171573)
 		(end 82 61)
 		(stroke
-			(width 0.05)
-			(type default)
+			(width 0.15)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "fd45a8f4-1a7a-491c-b63b-87eb4db120d9")
@@ -4579,7 +4579,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4591,19 +4591,19 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
 	)
 	(gr_text "12V"
-		(at 150 93 90)
+		(at 150.245603 92.95562 90)
 		(layer "F.SilkS")
 		(uuid "219a9031-f97f-4833-9562-c51b7b161ff2")
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4615,7 +4615,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4627,7 +4627,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4639,7 +4639,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4651,7 +4651,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4663,19 +4663,19 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
 	)
 	(gr_text "GND"
-		(at 150 97 90)
+		(at 150.245603 96.95562 90)
 		(layer "F.SilkS")
 		(uuid "7673f433-3ffe-4ba6-93f8-0913003d1999")
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4687,7 +4687,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4699,7 +4699,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4711,7 +4711,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4723,7 +4723,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4735,7 +4735,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4747,7 +4747,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4759,7 +4759,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4771,7 +4771,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4783,7 +4783,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4795,7 +4795,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4807,7 +4807,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4819,7 +4819,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -4834,7 +4834,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 			(justify left top)
 		)
